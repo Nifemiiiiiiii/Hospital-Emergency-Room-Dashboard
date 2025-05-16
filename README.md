@@ -88,6 +88,59 @@ C. Referral Patterns
 Top Departments: General Practice (1840), Orthopedics (995), Neurology (248).
 
 ![image](https://github.com/user-attachments/assets/92c1ebe6-85c4-4df2-9afc-db4dea87d405)
+
 47% of patients required no referrals.
 
 ##  DAX Measures
+
+![image](https://github.com/user-attachments/assets/bd8f5ca5-74ca-4dd7-a0b9-da38c275c3f0)
+
+![image](https://github.com/user-attachments/assets/11253529-5807-41c6-9c0e-6eeb704abbd0)
+
+![image](https://github.com/user-attachments/assets/74de2796-88b6-4d13-8835-2f93b3761a85)
+
+## Insights & Findings
+
+![Hospital Emergency Room Dashboard 4](https://github.com/user-attachments/assets/aee6cd09-dcbf-4a7a-8ac3-6cde80be7787)
+
+#### Critical Issues:
+
+Long Wait Times: Only 38% of patients seen within 30-minute target.
+
+Staffing Gaps: Peak hours (7 PM) had 40% fewer nurses than needed.
+
+Equity Concerns: African American patients waited 8 mins longer on average than White patients.
+
+#### Positive Trends:
+High Admission Rate (50%) suggests effective triaging.
+
+General Practice referrals reduced unnecessary specialist consultations.
+
+## Recommendations
+1. Operational Improvements:
+Shift Scheduling: Add 3 nurses during peak hours (11 AM–1 PM, 7–11 PM).
+
+Fast-Track System: Prioritize low-acuity cases during high-volume periods
+
+Ensure patients book an appointment ahead to date to see the doctor to reduce wait time.
+
+2. Clinical Enhancements:
+Standardize Referrals: Reduce Neurology referrals for non-urgent cases.
+
+Patient Education: Improve discharge instructions to cut readmissions 
+
+3. Equity Initiatives:
+Bias Training: Address racial disparities in wait times.
+
+Multilingual Staff: Add interpreters for non-English speakers.
+
+## Conclusion
+This analysis revealed actionable opportunities to:
+
+1. Reduce wait times by 22% via dynamic staffing.
+
+2. Boost satisfaction through targeted process improvements.
+
+3. Optimize referrals to balance specialist workloads
+
+   
