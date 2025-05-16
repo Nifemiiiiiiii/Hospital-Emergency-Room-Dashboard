@@ -30,6 +30,8 @@ Dataset: 19 months of de-identified ER records (9,216 patients)
 
 Fields: Patient ID, age, gender, race, Admission date/time, wait time (mins), referral department, Satisfaction score (1–10) and admission status
 
+![Hospital Emergency Room Dashboard 3](https://github.com/user-attachments/assets/e58e01bc-496c-4994-94bb-26680fba6a33)
+
 ## Tools
 1. Power BI (Interactive dashboard)
 
@@ -50,15 +52,14 @@ New columns:Patients full name, Admission status, Age group, Wait time status, A
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/a94c976a-f308-4a00-973f-700be2d88043)
 
-
 ## Exploratory Data Analysis (EDA)
 #### Key Metrics:
 
-Average wait time of 	36.1 mins	which Exceeds the 30-minute target
+Average wait time of 36.1 mins which Exceeds the 30-minute target
 
 ![image](https://github.com/user-attachments/assets/41659ea7-86fe-43c0-b950-5cc87c33e274)
 
-Average satisfaction level of	4.78/10	indicating Low scores correlate with long waits
+Average satisfaction level of	4.78/10 indicating Low scores correlate with long waits
 
 ![image](https://github.com/user-attachments/assets/f41e8a03-2550-4aaf-8b5b-5ade66e9ce91)
 
@@ -118,23 +119,27 @@ General Practice referrals reduced unnecessary specialist consultations.
 
 ## Recommendations
 1. Operational Improvements:
-Shift Scheduling: Add 3 nurses during peak hours (11 AM–1 PM, 7–11 PM).
+   
+a. Shift Scheduling: Add 3 nurses during peak hours (11 AM–1 PM, 7–11 PM).
 
-Fast-Track System: Prioritize low-acuity cases during high-volume periods
+b. Fast-Track System: Prioritize low-acuity cases during high-volume periods
 
-Ensure patients book an appointment ahead to date to see the doctor to reduce wait time.
+c. Ensure patients book an appointment ahead to date to see the doctor to reduce wait time.
 
 2. Clinical Enhancements:
-Standardize Referrals: Reduce Neurology referrals for non-urgent cases.
+   
+a. Standardize Referrals: Reduce Neurology referrals for non-urgent cases.
 
-Patient Education: Improve discharge instructions to cut readmissions 
+b. Patient Education: Improve discharge instructions to cut readmissions 
 
 3. Equity Initiatives:
-Bias Training: Address racial disparities in wait times.
 
-Multilingual Staff: Add interpreters for non-English speakers.
+a. Bias Training: Address racial disparities in wait times.
+
+b. Multilingual Staff: Add interpreters for non-English speakers.
 
 ## Conclusion
+
 This analysis revealed actionable opportunities to:
 
 1. Reduce wait times by 22% via dynamic staffing.
